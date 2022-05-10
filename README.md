@@ -9,7 +9,7 @@ Image recognition with search and display of similar photos on the Streamlit pla
 ## Installation :balloon:
 
 ```bash
-git clone https://github.com/
-cd 
+git clone https://github.com/xandbiTesc/streamlit.some-things.git
+cd streamlit.some-things
 pip install -r requirements.txt
 ```
