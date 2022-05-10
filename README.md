@@ -4,7 +4,7 @@
 
 Image recognition with search and display of similar photos on the Streamlit platform
 
-<img src="" width="400"/>
+<img src="image.png " width="400"/>
 
 ## Installation :balloon:
 
