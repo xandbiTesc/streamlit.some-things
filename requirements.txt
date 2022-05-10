@@ -1,0 +1,8 @@
+streamlit
+tensorflow-cpu
+tensorflow
+pillow
+numpy
+requests
+tqdm
+pexels-api
