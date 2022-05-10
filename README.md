@@ -6,7 +6,7 @@ Image recognition with search and display of similar photos on the Streamlit pla
 
 <img src="screen.png " width="800"/>
 
-## Installation :balloon:
+## Installation
 
 ```bash
 git clone https://github.com/xandbiTesc/streamlit.some-things.git
